@@ -1,0 +1,43 @@
+html{background-color: gray}
+
+body{font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-variant: small-caps;
+    text-align: center;
+    max-width: 1500px;
+    margin: auto auto; 
+}
+
+header{
+  text-align: left;
+  font-size: 50%;
+  border-style: double dotted;
+  background-color: whitesmoke;
+}
+
+nav{text-align: center;
+    border: dotted;
+    }
+
+hr{
+  color: black;
+}
+
+.nl{align-content: center;}
+.center{text-align: center;}
+
+figure{text-align: center;}
+
+h3{font-family: Verdana, Geneva, Tahoma, serif;}
+
+.sp{font-size: 75%; text-align: center;
+    font-family: courier}
+
+h2{
+  text-decoration: underline white;
+  text-transform: uppercase;
+  text-shadow: 3px 2px;
+}
+
+ol.centre{margin-left: auto; margin-right: auto;}
+ul{list-style-type: square;}
+
